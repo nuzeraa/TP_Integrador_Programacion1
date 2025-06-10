@@ -43,3 +43,8 @@ Este proyecto fue realizado para la materia **Programación I**. El objetivo es 
 ## Aprendizaje
 
 Con este trabajo entendimos mejor cómo funcionan los algoritmos de ordenamiento y cómo se puede medir su rendimiento en la práctica.
+
+---
+
+**LINK DEL VIDEO EN YOUTUBE:** https://youtu.be/I-ZtdCX7hwo
+
